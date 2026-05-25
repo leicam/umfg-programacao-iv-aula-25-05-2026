@@ -21,7 +21,7 @@ internal class Program
 
         t.Stop();
 
-        Console.WriteLine(t.ElapsedMilliseconds);
+        Console.WriteLine($"Tempo de Execução: {TimeSpan.FromMilliseconds(t.ElapsedMilliseconds)}");
         Console.ReadKey();
     }
 
