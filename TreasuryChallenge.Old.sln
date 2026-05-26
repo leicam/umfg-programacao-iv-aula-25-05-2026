@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11819.183 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasuryChallenge.Old", "TreasuryChallenge.Old\TreasuryChallenge.Old.csproj", "{0A69B86F-5855-4FA3-BB53-871632A0537F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasuryChallenge.Old.Tests", "TreasuryChallenge.Old.Tests\TreasuryChallenge.Old.Tests.csproj", "{5BFB9DAB-1829-4AD5-904A-61696613591A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A69B86F-5855-4FA3-BB53-871632A0537F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A69B86F-5855-4FA3-BB53-871632A0537F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A69B86F-5855-4FA3-BB53-871632A0537F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A69B86F-5855-4FA3-BB53-871632A0537F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFB9DAB-1829-4AD5-904A-61696613591A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFB9DAB-1829-4AD5-904A-61696613591A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFB9DAB-1829-4AD5-904A-61696613591A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFB9DAB-1829-4AD5-904A-61696613591A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39AFD45F-1873-4D22-A7C1-44A49417EB83}
+	EndGlobalSection
+EndGlobal
